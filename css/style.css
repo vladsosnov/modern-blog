@@ -172,7 +172,7 @@ main .site-title {
   height: 110vh;
   display: flex;
   justify-content: center;
-  background: url('../assets/Background-image.png');
+  background: url('../assets/background-image.png');
   background-size: cover;
 }
 
