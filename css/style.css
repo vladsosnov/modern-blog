@@ -94,10 +94,10 @@ button.btn {
 }
 
 .nav .nav-menu {
-  justify-content: space-between;
-  align-items: center;
   padding-right: 1.8rem;
   padding-left: 1.8rem;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .nav .toggle-collapse {
@@ -109,9 +109,9 @@ button.btn {
 }
 
 .nav .toggle-collapse .toggle-icons {
+  padding: 1.7rem 0;
   display: flex;
   justify-content: flex-end;
-  padding: 1.7rem 0;
 }
 
 .nav .toggle-collapse .toggle-icons i {
@@ -124,8 +124,8 @@ button.btn {
 }
 
 .nav .nav-list {
-  display: flex;
   margin: 0;
+  display: flex;
 }
 
 .nav .nav-list .nav-item {
@@ -149,8 +149,8 @@ button.btn {
 }
 
 .nav .nav-brand a {
-  display: block;
   padding: 1rem 0;
+  display: block;
   font-size: 1.6rem;
   font-family: var(--Lexand);
 }
@@ -222,8 +222,8 @@ main .blog-content .blog-title {
 }
 
 main .blog-content .btn-blog {
-  padding: .7rem 2rem;
   margin: .5rem;
+  padding: .7rem 2rem;
   background: var(--sky);
 }
 
